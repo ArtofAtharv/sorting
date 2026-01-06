@@ -68,7 +68,7 @@ export default function SortNumbers() {
   };
 
   return (
-    <div className="flex justify-between items-center flex-col min-h-dvh">
+    <div className="flex justify-between items-center flex-col min-h-dvh mx-4">
     <div className="p-8 max-w-3xl mx-4 my-8 rounded-2xl shadow-2xl bg-linear-to-br from-[#232526]/80 to-[#414345]/80 backdrop-blur-lg border border-gray-700/60 space-y-6 w-full">
       <h2 className="text-2xl font-bold mb-4 text-[#e0e7ef] drop-shadow-lg tracking-wide">Sort Numbers</h2>
       <input
