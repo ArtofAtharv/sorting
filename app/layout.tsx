@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Mutation Entries Sorting Tool",
-  description: "A web app to sort numbers and identify unique and repeated entries. A small useful gift form juniors Venks, Aradhana, Hrunakshi and Atharv to Adv. Saurabh Todkar Sir.",
+  description: "A web app to sort numbers and identify unique and repeated entries. A small useful gift from juniors Venks, Aradhana, Hrunakshi and Atharv to Adv. Saurabh Todkar Sir.",
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     siteName: "Mutation Entries Sorting Tool",
     type: "website",
     locale: "en_US",
-    description: "A web app to sort numbers and identify unique and repeated entries. A small useful gift form juniors Venks, Aradhana, Hrunakshi and Atharv to Adv. Saurabh Todkar Sir.",
+    description: "A web app to sort numbers and identify unique and repeated entries. A small useful gift from juniors Venks, Aradhana, Hrunakshi and Atharv to Adv. Saurabh Todkar Sir.",
     images: [
       {
         url: "https://mesorting.vercel.app/logo.png",
